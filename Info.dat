@@ -12,15 +12,17 @@
   "_shufflePeriod" : 0.5,
   "_coverImageFilename" : "Merry Christmas.jpg",
   "_songFilename" : "Merry Christmas Trap.ogg",
-  "_environmentName" : "DefaultEnvironment",
+  "_environmentName" : "OriginsEnvironment",
   "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
   "_customData" : {
     "_editors" : {
       "_lastEditedBy" : "ChroMapper",
       "ChroMapper" : {
-        "version" : "0.8.588"
+        "version" : "0.8.590"
       }
-    }
+    },
+    "_customEnvironmentHash" : "1326e596f8b5c835e30c77fd8d62b5db",
+    "_customEnvironment" : "Beat Saber Origins Platform"
   },
   "_difficultyBeatmapSets" : [
     {
